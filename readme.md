@@ -13,7 +13,7 @@
 ### Installation
 
 ```bash
-npm i react-native-image-pan-zoom --save
+npm i MssMaster/react-native-image-pan-zoom --save
 ```
 
 ### Basic Usage
